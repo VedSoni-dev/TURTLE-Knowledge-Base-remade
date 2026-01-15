@@ -1,0 +1,5 @@
+{
+  "buildCommand": "pip install -r docs/requirements.txt && sphinx-build docs/source public",
+  "outputDirectory": "public",
+  "framework": "sphinx"
+}
